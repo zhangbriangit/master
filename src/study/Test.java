@@ -1,7 +1,7 @@
 package study;
 
 class test {
-//test:1：2
+//test:1：2：4
 }
 
 //12.Output of the below Java Code?
